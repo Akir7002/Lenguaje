@@ -1,7 +1,7 @@
 import json
 import os
 
-CLIENTES_JSON_PATH = r"c:\Users\kenia\OneDrive\Documentos\Trabajitos\Python\Clientes.json"
+CLIENTES_JSON_PATH = "clientes.json"
 clientes = {}
 
 # Cargar datos desde el archivo JSON
